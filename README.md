@@ -29,10 +29,12 @@ This project is licensed under the [MIT License](LICENSE). You can freely use, m
 ## 🧑‍💻 About Me
 
 Hi, I’m Abdul Muqtadeer Baag, a BCA graduate passionate about data and analytics.
-I’m learning SQL, data analysis, and data modeling through small projects like this to improve my skills step-by-step.
+I’m learning Advance SQL, data analysis, and data modeling through small projects like this to improve my skills step-by-step.
 
 ---
-⭐ Support
+### 📬 Contact
 
-If you like this repository, feel free to star ⭐ it.
-It helps me grow and stay motivated to build more projects.
+If you would like to connect or collaborate, feel free to reach out: 
+<br>
+📧 Email: muqtadeerbaag@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/abdul-muqtadeer-baag-499926334
