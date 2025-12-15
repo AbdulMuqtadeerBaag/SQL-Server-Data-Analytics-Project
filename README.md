@@ -9,14 +9,14 @@ Each SQL script focuses on a specific analytical task and shows clean, readable,
 
 **This project includes:**
 
-    - Basic to advanced SQL analytics.
-    - Data cleaning queries.
-    - Aggregations and KPIs.
-    - Trend and pattern analysis.
-    - Customer and sales insights.
-    - Window functions.
-    - Joins, subqueries, CTEs.
-    - Scenario-based analytical questions.
+- Basic to advanced SQL analytics.
+- Data cleaning queries.
+- Aggregations and KPIs.
+- Trend and pattern analysis.
+- Customer and sales insights.
+- Window functions.
+- Joins, subqueries, CTEs.
+- Scenario-based analytical questions.
 
 The goal of this repository is to build strong SQL skills for data analyst interviews and real-world projects.
 
